@@ -1,0 +1,3 @@
+* Install 
+cd /home/factory/software/Avalon
+git clone https://github.com/qinfengling/Avalonscripts.git Avalon
